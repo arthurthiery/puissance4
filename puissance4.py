@@ -1,5 +1,5 @@
 #Jeu de Puissance 4 avec deux joueurs (X et O).
-#Pour gagner 4 pions doivent être aligné horizontalement, verticalement ou diagonalement.
+#Pour gagner, 4 pions doivent être alignés horizontalement, verticalement ou diagonalement.
 #Le jeu se joue sur le terminal en tour par tour.
 
 # Définir la taille du plateau et le nombre de pions nécessaires pour gagner
