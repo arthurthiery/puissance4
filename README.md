@@ -34,3 +34,6 @@ Je tiens à remercier les ressources suivantes qui m'ont aidé à développer ce
 - [Forum d'OpenClassrooms](https://openclassrooms.com/forum/sujet/python-exercice-puissance-4)
 
 N'hésitez pas à contribuer à ce dépôt en suggérant des améliorations. Amusez-vous bien ! 🚀
+
+![puissance4-illustration](https://github.com/arthurthiery/puissance4/assets/150455953/9d9b0ac3-b3ae-4ae4-88ef-4d665d1e6650)
+
