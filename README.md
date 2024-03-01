@@ -10,7 +10,7 @@ Le jeu de Puissance 4 est un jeu de stratégie populaire qui se joue à deux jou
 
 Pour jouer au jeu, suivez ces étapes simples :
 
-1. Téléchargez le fichier `puissance4.py` depuis ce dépôt GitHub.
+1. Téléchargez le fichier [`puissance4.py`]([https://www.pythontutorial.net/](https://github.com/arthurthiery/puissance4/blob/main/puissance4.py) depuis ce dépôt GitHub.
 2. Lancez le fichier sur votre machine à l'aide de Python.
 
 ## 💻 Comment jouer
