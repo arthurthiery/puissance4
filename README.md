@@ -29,8 +29,8 @@ L'objectif du jeu est d'aligner quatre pions de votre symbole (soit "X" soit "O"
 
 Je tiens à remercier les ressources suivantes qui m'ont aidé à développer ce jeu :
 
-- [Python Tutorial]([https://developer.mozilla.org/](https://www.pythontutorial.net/))
+- [Python Tutorial](https://www.pythontutorial.net/)
 - [Courspython.com](https://www.courspython.com/)
-- Forum d'OpenClassrooms ([lien](https://openclassrooms.com/forum/sujet/python-exercice-puissance-4))
+- [Forum d'OpenClassrooms](https://openclassrooms.com/forum/sujet/python-exercice-puissance-4)
 
 N'hésitez pas à contribuer à ce dépôt en suggérant des améliorations. Amusez-vous bien ! 🚀
